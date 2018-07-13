@@ -1,7 +1,7 @@
 <?php
 
 
-$access_token = 'https://github.com/bomoneshot/line-bot-exam-php.git';
+$access_token = 'XLhMrUWYtQuATW5tmkaxqL1Iu3eyoaqpIuAJLuq47CW/yd7qX0MyxHhWNk01Uphc7hxRiZ/VdGrYqyEeibeYwAF7gqKn62iIwHKbLcJTVNz2/qinKhK9JvuESXOM7HCsvV/OHTz2eHcaaIR4L/yA5AdB04t89/1O/w1cDnyilFU=';
 
 $userId = 'Uffa138efe037e6e889d0b0f4a871c005';
 
